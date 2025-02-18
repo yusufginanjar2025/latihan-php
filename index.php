@@ -21,7 +21,7 @@
           </div>
           </div>
         <div class="col-12 col-md-6">
-          <img src="gambar-pokemon.jpeg" class="img-fluid" alt="Responsive image">
+          <img src="<?= $pageImage ?>" class="img-fluid" alt="Responsive image">
         </div>
       </div>
     </div>
